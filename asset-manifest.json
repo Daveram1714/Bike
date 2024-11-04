@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Bike-Deploy/static/css/main.af0c275e.css",
-    "main.js": "/Bike-Deploy/static/js/main.c8770dac.js",
-    "static/media/close-up-man-old-motorcycle.jpg": "/Bike-Deploy/static/media/close-up-man-old-motorcycle.88936980911a53327b7c.jpg",
-    "static/media/water-wash.jpg": "/Bike-Deploy/static/media/water-wash.671f4e0e7e1bfcca790f.jpg",
-    "static/media/BMW2.png": "/Bike-Deploy/static/media/BMW2.adb67d441a4dc59362fd.png",
-    "static/media/BMW3.png": "/Bike-Deploy/static/media/BMW3.5310782ceab2d67749c8.png",
-    "static/media/General-service.jpg": "/Bike-Deploy/static/media/General-service.6968a9ffc089b135c62e.jpg",
-    "static/media/Oil-change.jpg": "/Bike-Deploy/static/media/Oil-change.d844f4b119b1c5cbc037.jpg",
-    "static/media/Engine-work.jpg": "/Bike-Deploy/static/media/Engine-work.55a7fddef00ec4d44cce.jpg",
-    "static/media/bike2.png": "/Bike-Deploy/static/media/bike2.9bb281fc03fbbda2303b.png",
-    "index.html": "/Bike-Deploy/index.html",
-    "main.af0c275e.css.map": "/Bike-Deploy/static/css/main.af0c275e.css.map",
-    "main.c8770dac.js.map": "/Bike-Deploy/static/js/main.c8770dac.js.map"
+    "main.css": "/Bike/static/css/main.af0c275e.css",
+    "main.js": "/Bike/static/js/main.ac80c795.js",
+    "static/media/close-up-man-old-motorcycle.jpg": "/Bike/static/media/close-up-man-old-motorcycle.88936980911a53327b7c.jpg",
+    "static/media/water-wash.jpg": "/Bike/static/media/water-wash.671f4e0e7e1bfcca790f.jpg",
+    "static/media/BMW2.png": "/Bike/static/media/BMW2.adb67d441a4dc59362fd.png",
+    "static/media/BMW3.png": "/Bike/static/media/BMW3.5310782ceab2d67749c8.png",
+    "static/media/General-service.jpg": "/Bike/static/media/General-service.6968a9ffc089b135c62e.jpg",
+    "static/media/Oil-change.jpg": "/Bike/static/media/Oil-change.d844f4b119b1c5cbc037.jpg",
+    "static/media/Engine-work.jpg": "/Bike/static/media/Engine-work.55a7fddef00ec4d44cce.jpg",
+    "static/media/bike2.png": "/Bike/static/media/bike2.9bb281fc03fbbda2303b.png",
+    "index.html": "/Bike/index.html",
+    "main.af0c275e.css.map": "/Bike/static/css/main.af0c275e.css.map",
+    "main.ac80c795.js.map": "/Bike/static/js/main.ac80c795.js.map"
   },
   "entrypoints": [
     "static/css/main.af0c275e.css",
-    "static/js/main.c8770dac.js"
+    "static/js/main.ac80c795.js"
   ]
 }
